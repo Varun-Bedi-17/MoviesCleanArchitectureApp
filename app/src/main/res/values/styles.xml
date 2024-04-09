@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Custom Search View Theme-->
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColorHint">@color/white_55</item>
+        <item name="android:editTextColor">@color/white_70</item>
+    </style>
+</resources>

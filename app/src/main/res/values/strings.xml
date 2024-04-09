@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoviesCleanArchitectureApp</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="download">Download</string>
+    <string name="profile">Profile</string>
+    <string name="search_for_movies_series_and_more">Search for movies, series and more</string>
+    <string name="featured_series">Featured Series</string>
+    <string name="profile_icon">Profile icon</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="please_wait_while_we_are_loading_your_data">Please wait  we are loading data for you.</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="stranger_things">Stranger Things</string>
+    <string name="_2019">2019</string>
+    <string name="fifty_min">50 m</string>
+    <string name="add_to_watchlist_icon">Add to watchlist icon</string>
+    <string name="download_icon">Download icon</string>
+    <string name="share_icon">Share icon</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bottom_view_color">#4D52527C</color>
+    <color name="movie_detail_bg_color">#232335</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_55">#8CFFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="selected_tab_color">#807C58</color>
+</resources>
